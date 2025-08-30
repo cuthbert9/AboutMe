@@ -80,7 +80,7 @@ const Portfolio = () => {
                 <div className="absolute text-center px-4">
                     <p className="font-cursive font-extrabold text-2xl text-gray-300 py-16">Digital solutions Designing</p>
                     <h1 className="text-5xl md:text-6xl mt-5 text-gray-300">
-                        Hi I'm <span className="text-yellow-400 font-medium">Cuthbert</span>  <span className={'font-mono text-xl sm:text-3xl md:text-4xl lg:text-4xl'}> Software Developer </span>
+                        Hi Im <span className="text-yellow-400 font-medium">Cuthbert</span>  <span className={'font-mono text-xl sm:text-3xl md:text-4xl lg:text-4xl'}> Software Developer </span>
                         <span className={'text-2xl md:text-4xl'}>From</span>
                         <span className="text-yellow-400 font-extralight">Tanzania</span>
                     </h1>
