@@ -1,9 +1,7 @@
-// components/FrameworkCard.tsx
-import { LucideIcon } from "lucide-react"
 
 interface FrameworkCardProps {
-    name: string
-    Icon: LucideIcon
+    name: string;
+    Icon: any;
 }
 
 export default function FrameworkCard({ name, Icon }: FrameworkCardProps) {
