@@ -3,9 +3,9 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { IoMdHeart } from "react-icons/io";
+
 import {
-    FaAlignJustify,FaBars
+   FaBars
 } from "react-icons/fa";
 import { IoMdCloseCircle } from "react-icons/io";
 

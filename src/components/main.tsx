@@ -6,12 +6,8 @@ import {
     FaWifi,
     FaEnvelope,
     FaPhone,
-    FaFacebookF,
-    FaInstagram,
-    FaGithub,
-    FaLinkedin,
-    FaAngleRight,
-    FaLink
+    FaAngleRight
+
 } from "react-icons/fa";
 import Social from "@/components/SocialsDiv";
 import WorkCard from "@/components/workCard";
@@ -24,7 +20,6 @@ import { TbBrandTailwind } from "react-icons/tb";
 
 
 import Car from '../../public/Images/CarMarketPlace.png';
-import expense1 from '../../public/Images/expensetracker.png'
 import expense from '../../public/Images/expense2.png'
 import recipe from '../../public/Images/foodRecipe.png'
 
