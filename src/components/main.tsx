@@ -17,6 +17,8 @@ import { TbBrandNextjs } from "react-icons/tb";
 import { TbBrandReact } from "react-icons/tb";
 import { TbBrandReactNative } from "react-icons/tb";
 import { TbBrandTailwind } from "react-icons/tb";
+import { TbBrandNodejs } from "react-icons/tb";
+import { TbBrandJavascript } from "react-icons/tb";
 
 
 import Car from '../../public/Images/CarMarketPlace.png';
@@ -37,7 +39,10 @@ const Portfolio = () => {
         { name: "React", Icon: TbBrandReact },
         { name: "ReactNative", Icon:TbBrandReactNative },
         { name: "Next.js", Icon: TbBrandNextjs },
-        { name: "TailwindCSS", Icon: TbBrandTailwind},
+        { name: "VanillaJS", Icon: TbBrandJavascript},
+        { name: "ExpressJS", Icon: TbBrandNodejs},
+        { name: "TailwindCSS", Icon: TbBrandTailwind}
+
 
 
     ]
