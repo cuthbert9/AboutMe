@@ -24,6 +24,7 @@ import { TbBrandJavascript } from "react-icons/tb";
 import Car from '../../public/Images/CarMarketPlace.png';
 import expense from '../../public/Images/expense2.png'
 import recipe from '../../public/Images/foodRecipe.png'
+import DitReport from '../../public/Images/DitReport.png'
 
 import Image from "next/image";
 
@@ -67,6 +68,14 @@ const Portfolio = () => {
             description:'Find Any Dish recipe you love and wanna cook here including Procedures of how to cook em',
             image:recipe,
             link:'https://reciipe-one.vercel.app/'
+
+        },
+        {title:'DIT Report',
+            description:'DIT Report is a web platform that lets students report issues, track progress, and get ' +
+                'updates online, creating a simple and transparent link between students and ' +
+                'college staff for faster problem resolution..',
+            image:DitReport,
+            link:'https://dit-report.vercel.app/'
 
         }
     ]
@@ -202,7 +211,14 @@ const Portfolio = () => {
                                     <br />
                                     <span className={'font-["italic"] text-lg'}>
                                       Diploma in Computer Engineering
+
+                                        <span
+                                            className={'text-green-500 mx-2'}
+                                        >GPA: 4.4 </span>
+
                                     </span>
+
+
 
                                 </li>
                                 <li>
